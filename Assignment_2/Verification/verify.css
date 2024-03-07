@@ -1,0 +1,159 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    width: 100%;
+    margin: auto;
+    float: left;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    background: black;
+}
+
+.left_image {
+    width: 50%;
+    float: left;
+}
+
+.left_image img {
+    width: 25%;
+    float: left;
+    padding-top: 10px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+.right_text {
+    width: 50%;
+    float: left;
+}
+
+.right_text h2 {
+    float: right;
+    color: #fff;
+    padding-right: 50px;
+}
+.yellow {
+    background-color: #F9E537;
+    width: 100%;
+    float: left;
+    padding-bottom: 100px;
+}
+.yellow_empty{
+    background: #F9E537;
+    width: 100%;
+    float: left;
+}
+
+.about_footer{
+    width: 100%;
+    float: left;
+    background: black;
+    color: white;
+}
+
+.about_footer p {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    font-size: 24px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.upper_three {
+    padding-bottom: 60px;
+}
+.select_country{
+    background-color: #312F2F;
+    display: flex;
+    width: 100%;
+}
+.country{
+    width: 25%;
+}
+.country button {
+    background: black;
+    color: white;
+    font-size: 18px;
+    border: 1px solid black;
+    float: left;
+    padding: 12px 12px;
+    margin: 35px 85px;
+    border-radius: 13px 13px;
+    align-content: flex-start;
+}
+.support {
+    width: 25%;
+    float: left;
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 75px;
+}
+.support h3 {
+    font-size: 22px;
+    margin-left: 71px;
+    justify-content: center;
+}
+.support ul {
+    float: left;
+    margin: 0px;
+    margin-left: 73px;
+    list-style: none;
+    padding: 0px;
+}
+.support ul li{
+    list-style: none;
+}
+.support ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+}
+.about_foot{
+    width: 100%;
+    float: left;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+.stores img {
+    margin: 15px;
+}
+.white_log {
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.login{
+    margin-left: 5%
+}
+input.email {
+    margin-left: 5%;
+    width: 85%;
+    padding: 20px 20px;
+}
+input.check {
+    margin-left: 75%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.login h1 {
+    padding-top: 15px;
+}
+button.black_butt {
+    width: 35%;
+    background: black;
+    padding: 10px;
+    color: white;
+    margin-top: 45px;
+    margin-left: 32%;
+    border: 1px solid black;
+    cursor: pointer;
+}
